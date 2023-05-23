@@ -9,17 +9,17 @@ I created 2703 textgrids files that store information about phonems and their ti
 
 ### Using Praat for analysing decoded files
 
-![84-121123-0](84-121123-0.jpg)
+![84-121123-0](plots/84-121123-0.jpg)
 
 As we can see we have misalignment with the phonem and the actual audio, let's see another example
 
-![1462-170142-0042](1462-170142-0042.jpg)
+![1462-170142-0042](plots/1462-170142-0042.jpg)
 
 For this file we have exactly the same situation, this delay in processing happens in every decoding, we have misalignment in about ~0.20 for each example, I believe it's due to the time that model needs to decode the heard sound and convolutional downsampling, since we have output sample rate in 25 frames per second and input sample rate in 100 frames per second
 
 ### Explanation of an error happening with audio files:  
 
-![2428-83699-0013](2428-83699-0013.jpg)
+![2428-83699-0013](plots/2428-83699-0013.jpg)
 
 As I thought, we have situation where the last sounds are spoken in the last ~0.2 seconds interval, the model can't decode them that fast and tries to put more phonems in the end of decoding, but meets an error that says that the audio file run out and there is no way there can be any more sounds
 
