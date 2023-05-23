@@ -6,7 +6,8 @@ Code I used to do it is in vivtorok.ipynb
 ## Results:
 
 I created 2703 textgrids files that store information about phonems and their timings in audio file, some of them were causing problems with intervals, their decoded last phonems were starting when the audio already ended, I fixed this mistake by deleting last added interval so that timing of last decoded phonem syncs with the end of an audio file
-## Using Praat for analysing decoded files
+
+### Using Praat for analysing decoded files
 
 ![84-121123-0](84-121123-0.jpg)
 
