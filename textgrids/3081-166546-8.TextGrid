@@ -14,37 +14,37 @@ item []:
         intervals: size = 9 
         intervals [1]:
             xmin = 0 
-            xmax = 0.8 
+            xmax = 0.5800000000000001 
             text = "ε" 
         intervals [2]:
-            xmin = 0.8 
-            xmax = 0.84 
+            xmin = 0.5800000000000001 
+            xmax = 0.62 
             text = "JH" 
         intervals [3]:
-            xmin = 0.84 
-            xmax = 0.96 
+            xmin = 0.62 
+            xmax = 0.74 
             text = "ε" 
         intervals [4]:
-            xmin = 0.96 
-            xmax = 1 
+            xmin = 0.74 
+            xmax = 0.78 
             text = "AO1" 
         intervals [5]:
-            xmin = 1 
-            xmax = 1.04 
+            xmin = 0.78 
+            xmax = 0.8200000000000001 
             text = "ε" 
         intervals [6]:
-            xmin = 1.04 
-            xmax = 1.12 
+            xmin = 0.8200000000000001 
+            xmax = 0.9000000000000001 
             text = "R" 
         intervals [7]:
-            xmin = 1.12 
-            xmax = 1.24 
+            xmin = 0.9000000000000001 
+            xmax = 1.02 
             text = "ε" 
         intervals [8]:
-            xmin = 1.24 
-            xmax = 1.28 
+            xmin = 1.02 
+            xmax = 1.1 
             text = "JH" 
         intervals [9]:
-            xmin = 1.28 
+            xmin = 1.1 
             xmax = 1.75 
             text = "ε" 

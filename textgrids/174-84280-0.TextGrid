@@ -14,101 +14,101 @@ item []:
         intervals: size = 25 
         intervals [1]:
             xmin = 0 
-            xmax = 0.84 
+            xmax = 0.62 
             text = "ε" 
         intervals [2]:
-            xmin = 0.84 
-            xmax = 0.88 
+            xmin = 0.62 
+            xmax = 0.66 
             text = "HH" 
         intervals [3]:
-            xmin = 0.88 
-            xmax = 0.96 
+            xmin = 0.66 
+            xmax = 0.74 
             text = "ε" 
         intervals [4]:
-            xmin = 0.96 
-            xmax = 1 
+            xmin = 0.74 
+            xmax = 0.78 
             text = "AW1" 
         intervals [5]:
-            xmin = 1 
-            xmax = 1.08 
+            xmin = 0.78 
+            xmax = 0.8600000000000001 
             text = "" 
         intervals [6]:
-            xmin = 1.08 
-            xmax = 1.12 
+            xmin = 0.8600000000000001 
+            xmax = 0.9000000000000001 
             text = "W" 
         intervals [7]:
-            xmin = 1.12 
-            xmax = 1.16 
+            xmin = 0.9000000000000001 
+            xmax = 0.94 
             text = "IY1" 
         intervals [8]:
-            xmin = 1.16 
-            xmax = 1.24 
+            xmin = 0.94 
+            xmax = 1.02 
             text = "" 
         intervals [9]:
-            xmin = 1.24 
-            xmax = 1.28 
+            xmin = 1.02 
+            xmax = 1.06 
             text = "M" 
         intervals [10]:
-            xmin = 1.28 
-            xmax = 1.32 
+            xmin = 1.06 
+            xmax = 1.1 
             text = "AH1" 
         intervals [11]:
-            xmin = 1.32 
-            xmax = 1.36 
+            xmin = 1.1 
+            xmax = 1.1400000000000001 
             text = "S" 
         intervals [12]:
-            xmin = 1.36 
-            xmax = 1.44 
+            xmin = 1.1400000000000001 
+            xmax = 1.22 
             text = "T" 
         intervals [13]:
-            xmin = 1.44 
-            xmax = 1.6 
+            xmin = 1.22 
+            xmax = 1.3800000000000001 
             text = "" 
         intervals [14]:
-            xmin = 1.6 
-            xmax = 1.68 
+            xmin = 1.3800000000000001 
+            xmax = 1.46 
             text = "S" 
         intervals [15]:
-            xmin = 1.68 
-            xmax = 1.72 
-            text = "ε" 
-        intervals [16]:
-            xmin = 1.72 
-            xmax = 1.76 
+            xmin = 1.46 
+            xmax = 1.5 
             text = "IH1" 
-        intervals [17]:
-            xmin = 1.76 
-            xmax = 1.8 
+        intervals [16]:
+            xmin = 1.5 
+            xmax = 1.54 
             text = "M" 
-        intervals [18]:
-            xmin = 1.8 
-            xmax = 1.84 
+        intervals [17]:
+            xmin = 1.54 
+            xmax = 1.62 
             text = "P" 
-        intervals [19]:
-            xmin = 1.84 
-            xmax = 1.92 
+        intervals [18]:
+            xmin = 1.62 
+            xmax = 1.66 
             text = "L" 
+        intervals [19]:
+            xmin = 1.66 
+            xmax = 1.7 
+            text = "ε" 
         intervals [20]:
-            xmin = 1.92 
-            xmax = 1.96 
+            xmin = 1.7 
+            xmax = 1.74 
             text = "AH0" 
         intervals [21]:
-            xmin = 1.96 
-            xmax = 2 
+            xmin = 1.74 
+            xmax = 1.78 
             text = "ε" 
         intervals [22]:
-            xmin = 2 
-            xmax = 2.08 
+            xmin = 1.78 
+            xmax = 1.82 
             text = "F" 
         intervals [23]:
-            xmin = 2.08 
-            xmax = 2.12 
+            xmin = 1.82 
+            xmax = 1.9000000000000001 
             text = "ε" 
         intervals [24]:
-            xmin = 2.12 
-            xmax = 2.16 
+            xmin = 1.9000000000000001 
+            xmax = 1.9400000000000002 
             text = "AY0" 
         intervals [25]:
-            xmin = 2.16 
+            xmin = 1.9400000000000002 
             xmax = 2.38 
             text = "ε" 
