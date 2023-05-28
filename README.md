@@ -21,6 +21,8 @@ For this file we have exactly the same situation, this delay in processing after
 
 ### Example of a problem with sounds at the end:  
 
+![2428-83699-0013_fixed2](plots/2428-83699-0013_fixed2.jpg)
+
 Text: *2428-83699-0013 I EVEN BOUGHT SOMETHING FOR MADGE I MEAN MISSUS WILSON*
 
 We have situation where the last sounds are spoken are not present in textgrid in the last ~0.2 seconds interval, maybe the model can't decode them that fast
